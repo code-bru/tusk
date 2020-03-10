@@ -3,4 +3,8 @@ Chicken Parm
 Pasta
 Lasagna
 
+Beans
+French Fries
+
+
 Thank you
